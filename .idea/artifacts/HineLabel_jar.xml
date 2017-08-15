@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HineLabel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HineLabel_jar</output-path>
+    <root id="archive" name="HineLabel.jar">
+      <element id="module-output" name="HineLabel" />
+    </root>
+  </artifact>
+</component>
